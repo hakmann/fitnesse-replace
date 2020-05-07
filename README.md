@@ -1,0 +1,2 @@
+# fitnesse-replace
+Proto type
